@@ -52,7 +52,6 @@ Once customized, share your Linktree link with others to provide a centralized h
 
 ## Credits
 
-- **Background Gradient Animation:** Adapted from [CSS Gradient Background Animation](https://codepen.io/P1N2O/pen/pyBNzX) by [P1N2O](https://codepen.io/P1N2O).
 - **Link Icon:** SVG icon from [Heroicons](https://heroicons.com/).
 
 ## License
